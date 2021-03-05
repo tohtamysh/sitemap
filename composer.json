@@ -11,7 +11,7 @@
   ],
   "homepage": "https://github.com/tohtamysh/sitemap",
   "require": {
-    "php": "^7.2.5",
+    "php": "^7.2.5|^8.0",
     "ext-simplexml": "*",
     "nesbot/carbon": "^2.0"
   },
